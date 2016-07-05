@@ -1,7 +1,7 @@
 {
     "HI": "Hi there!\nI’m the personal bot of Federico, a Game Designer and Digital Creative from London.\nI'm ready to answer all your questions about him.\nHow about starting with just a general description of who he is?\n%[Well, Ok!](postback:general) %[No, let's get to the point](postback:details)",
     "WELL, OK!": "Oh, here are some general things.",
-    "NO, LET'S GET TO THE POINT": "Let's get in deep. Where do you want to start?\n %[Education](a) %[Work](b) %[Skills](c)" ,
+    "NO, LET'S GET TO THE POINT": "Let's get in deep. Where do you want to start?\n %[Education](postback:a) %[Work](postback:b) %[Skills](postback:c)" ,
     "EDUCATION": "Federico has studied a lot. Maybe just not in the most orthodox way, I'd say.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
