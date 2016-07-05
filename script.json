@@ -1,5 +1,5 @@
 {
-    "HI": "Hi there!\nI’m the personal bot of Federico, a Game Designer and Digital Creative from London.\nI'm ready to answer all your questions about him.\nHow about starting with just a general description of who he is?\n%[Well, Ok!](postback:GENERAL)[No, let's get to the point](postback:DETAILS)",
+    "HI": "Hi there!\nI’m the personal bot of Federico, a Game Designer and Digital Creative from London.\nI'm ready to answer all your questions about him.\nHow about starting with just a general description of who he is?\n%[Well, Ok!](postback:GENERAL) %[No, let's get to the point](postback:DETAILS)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "GENERAL": "Oh, here are some general things",
     "DETAILS": "Let's get in deep. Where do you want to start?",
