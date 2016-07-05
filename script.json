@@ -1,3 +1,5 @@
+
+
 {
     "BOT": "Hi there!\nI’m the personal bot of Federico, a Game Designer and Digital Creative From London.\n![federico](ttps://raw.githubusercontent.com/esthercrawford/EstherBot/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
