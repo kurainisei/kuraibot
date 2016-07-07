@@ -1,8 +1,14 @@
 {
-    "HI": "Hi there!\nI’m the personal bot of Federico, a Game Designer and Digital Creative from London.\nI'm ready to answer all your questions about him.\nHow about starting with just a general description of who he is?\n%[Well, Ok!](postback:general) %[No, let's get to the point](postback:details)",
-    "WELL, OK!": "Oh, here are some general things.",
-    "NO, LET'S GET TO THE POINT": "Let's get in deep. Where do you want to start?\n %[Education](postback:a) %[Work](postback:b) %[Skills](postback:c)" ,
-    "EDUCATION": "Federico has studied a lot. Maybe just not in the most orthodox way, I'd say.",
+    "HI": "Hi there!\nI’m the personal bot of Federico, a Game Designer and Digital Creative from London.\nI'm ready to answer all your questions about him.\n%[Cool](postback:cool)",
+    "COOL": "So, here are some options for you. Type 'cool' again whenever you need to restart the conversation from here.\nDo you want to learn something about...\n%[Education](postback:a) %[Work](postback:b) %[Skills](postback:c)\nOr maybe you're interested in something more personal? %[Hobbies](postback:hobbies) %[Games](postback:games)",
+    "EDUCATION": "Federico has studied a lot. Maybe just not in the most orthodox way, I'd say.\nHe is a fast learner, very curious about how things work and how they relate.\nAfter High School he attended a comic school and after a few years working he started University.\n%[Why Comic School?](postback:comic_school) %[Tell me more about University](postback:university) %[Fast learner?](postback:fast_learning)",
+    "WHY COMIC SCHOOL?": "Comic School",
+    "TELL ME MORE ABOUT UNIVERSITY": "University",
+    "FAST LEARNER?":"About learning",
+    "HOBBIES": "Hobbies",
+    "GAMES": "Games",
+    "WORK": "Work",
+    "SKILLS": "Skills",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, KuraiBot is back."
